@@ -1,2 +1,2 @@
 # Snake
-basic snake game
+Amazing snake game I made from a Youtube tutorial using JavaScript
